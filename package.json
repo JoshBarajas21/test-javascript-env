@@ -1,0 +1,24 @@
+{
+  "name": "test-javascript-env",
+  "version": "0.0.0",
+  "description": "Esto es un entorno de ES6 para node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshBarajas21/test-javascript-env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "@joshua_barajas_20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshBarajas21/test-javascript-env/issues"
+  },
+  "homepage": "https://github.com/JoshBarajas21/test-javascript-env#readme"
+}
